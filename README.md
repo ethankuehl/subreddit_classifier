@@ -38,7 +38,7 @@ The PoliticalDiscussion subreddit is a forum focused solely on posing questions 
 * There is a huge difference in the vocabulary used in r/PoliticalDiscussions compared to r/CasualConversation
 * As a result, it is possible to classify posts with 99% accuracy , regardless of model. 
 
-![fig3](./Figures/confusion_matrix.png)
+     ![fig3](./Figures/confusion_matrix.png)
 
 ## Recommendations and Next Steps
 
