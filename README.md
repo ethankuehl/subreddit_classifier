@@ -9,10 +9,10 @@ My models are trained using text data from the website reddit, with the submissi
 2. r/PoliticalDiscussion
 
 The CasualConversation subreddit is a forum dedicated having fun conversations "about anything that is on your mind". with 1.44 million members, there is a huge variety in conversation topics from advice, to discussing dinner plans, favorite memories. As a result, it serves as a great baseline signal for what average conversation looks like on social media.
-[fig1](./Figures/most_casual_words.png)
+(./Figures/most_casual_words.png)
 
 The PoliticalDiscussion subreddit is a forum focused solely on posing questions regarding current politics, mainly centering on US politics as its core topic. The subreddit is home to 1.91 million redditors who have vigorous debates regarding political strategy and opinions on recent political news.
-[fig2](./Figures/most_political_words.png)
+(./Figures/most_political_words.png)
 
 ## Methodology
 
@@ -38,7 +38,7 @@ The PoliticalDiscussion subreddit is a forum focused solely on posing questions 
 * There is a huge difference in the vocabulary used in r/PoliticalDiscussions compared to r/CasualConversation
 * As a result, it is possible to classify posts with 99% accuracy , regardless of model. 
 
-[fig3](./Figures/confusion_matrix.png)
+(./Figures/confusion_matrix.png)
 
 ## Recommendations and Next Steps
 
